@@ -27,7 +27,7 @@ Es tracta de fer un programa, fent servir la llibreria ACM JFT, que permeti a un
     * les granotes han canviat de posició 
     * La granota que el cavaller ha petonejat va quedar embarassada i ha aparegut una nova granota
 
-![pantalla](imatges/pantalla.png)
+![pantalla](imatges/petonets.gif)
 
 El joc acaba quan el príncep ha trobat la princesa o bé hi ha *massa granotes* (decidiu què és 'massa')
 
